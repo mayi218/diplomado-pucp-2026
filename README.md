@@ -12,3 +12,9 @@ This is repo for the python course in PUCP
 2. Spider-man
 3. Rey León
 4. Volver al futuro
+
+# carreras
+1. Antropología
+2. Ciencias Políticas
+3. Economía
+4. Sociología
