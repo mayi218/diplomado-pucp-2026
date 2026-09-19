@@ -18,3 +18,6 @@ This is repo for the python course in PUCP
 2. Ciencias Políticas
 3. Economía
 4. Sociología
+5. Gestión
+6. Derecho
+7. Historia
